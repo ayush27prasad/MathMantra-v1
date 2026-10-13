@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MathMantra" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <color name="background">#FF10131A</color>
+</resources>

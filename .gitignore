@@ -1,66 +1,38 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-# Gradle caches
+# Gradle / Kotlin
 .gradle/
-
-# Ignore Android Studio specific files
-.idea/
-
-# Ignore build output directories
+.kotlin/
 build/
-app/build/
+local.properties
 
-# Ignore generated files
-gen/
-out/
-generated/
+# IDEs
+.idea/
+.fleet/
+*.iml
+.vscode/
 
-# Log files
-*.log
+# Xcode
+iosApp/*.xcodeproj/xcuserdata/
+iosApp/*.xcodeproj/project.xcworkspace/xcuserdata/
+iosApp/*.xcworkspace/xcuserdata/
+DerivedData/
+*.xcuserstate
 
-# Bytecode files
-*.class
-
-# Keystore files
+# Signing
+*.jks
 *.keystore
+*.p12
+*.mobileprovision
 
-# Apk files
+# Outputs
 *.apk
+*.aab
 *.ap_
+captures/
+.externalNativeBuild/
+.cxx/
 
-# IntelliJ IDEA specific files
-*.iws
-*.ipr
-*.iws
-
-# Windows specific files
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# macOS specific files
+# OS / editors
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Temporary files created by editors
+Thumbs.db
 *.swp
-*.swo
 *~
-

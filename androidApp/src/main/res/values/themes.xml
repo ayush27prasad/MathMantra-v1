@@ -1,0 +1,8 @@
+<resources>
+    <!-- Only the window background shows before Compose draws; everything else is themed in Compose. -->
+    <style name="Theme.MathMantra" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <color name="background">#FFF6F8FE</color>
+    <color name="launcher_background">#FF1756C4</color>
+</resources>

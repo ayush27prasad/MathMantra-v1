@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MathMantra</string>
+    <string name="home_tagline">Let’s play with numbers!</string>
+
+    <string name="section_play">Play</string>
+    <string name="section_learn">Learn</string>
+    <string name="section_practice">Practice</string>
+
+    <string name="activity_bell">Ring the Bell</string>
+    <string name="activity_bell_hint">Shake to ring and count</string>
+    <string name="activity_bell_hint_tap">Tap to ring and count</string>
+    <string name="activity_drum">Play the Drum</string>
+    <string name="activity_drum_hint">Tap to count the beats</string>
+    <string name="activity_recite">Count Aloud</string>
+    <string name="activity_recite_hint">Say the numbers out loud</string>
+    <string name="activity_lessons">Lessons</string>
+    <string name="activity_lessons_hint">Listen to math stories</string>
+    <string name="activity_number_line">Number Line</string>
+    <string name="activity_number_line_hint">Walk to the answer</string>
+    <string name="activity_choices">Pick the Answer</string>
+    <string name="activity_choices_hint">Choose from four answers</string>
+    <string name="activity_quiz">Quick Quiz</string>
+    <string name="activity_quiz_hint">Type in your answer</string>
+
+    <string name="back">Back</string>
+    <string name="hear_again">Hear again</string>
+    <string name="continue_label">Continue</string>
+    <string name="try_again">Try again</string>
+    <string name="score">%1$d correct</string>
+
+    <string name="counting_progress">%1$d of %2$d</string>
+    <string name="bell_shake_hint">Shake your device to ring the bell</string>
+    <string name="bell_tap_hint">Tap the bell to ring it</string>
+    <string name="bell_button">Ring the bell</string>
+    <string name="drum_tap_hint">Tap the drum to play it</string>
+    <string name="drum_button">Play the drum</string>
+
+    <string name="recite_start">Start counting</string>
+    <string name="recite_listening">Listening…</string>
+    <string name="recite_you_said">You said: %1$s</string>
+    <string name="recite_unavailable">Speech recognition isn’t available on this device.</string>
+    <string name="recite_permission_denied">MathMantra needs the microphone to hear you count.</string>
+    <string name="recite_allow">Allow microphone</string>
+
+    <string name="lesson_pages">%1$d parts</string>
+    <string name="lesson_progress">Part %1$d of %2$d</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="repeat">Repeat</string>
+    <string name="finish">Finish</string>
+
+    <string name="question_prompt">What is</string>
+    <string name="choice_answer">Answer %1$d</string>
+    <string name="quiz_hint">Your answer</string>
+    <string name="quiz_submit">Check</string>
+    <string name="quiz_skip">New question</string>
+
+    <string name="number_line_position">You’re standing on %1$d</string>
+    <string name="number_line_left">Move left</string>
+    <string name="number_line_right">Move right</string>
+    <string name="number_line_steps_right">Move %1$d steps to the right</string>
+    <string name="number_line_steps_left">Move %1$d steps to the left</string>
+</resources>
